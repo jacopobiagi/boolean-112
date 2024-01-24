@@ -35,8 +35,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "4c37181442180cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips & Tricks/Aggiornare il Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1867bd95acbfb958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips & Tricks/Aggiornare il Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Tips & Tricks/Aggiornare il Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Tips & Tricks/Aggiornare il Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Full Stack - 112.md"
+                "file": "Tips & Tricks/Aggiornare il Vault.md"
               }
             }
           },
@@ -175,10 +200,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32248fedf9084633",
+  "active": "1867bd95acbfb958",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Boolean Full Stack - 112.md",
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Workspace/01-php-intro/snack2.php",
+    "Workspace/01-php-intro/snack1.php",
+    "Workspace/01-php-intro/slide-live-coding.php",
+    "Workspace/01-php-intro/es3.php",
+    "Workspace/01-php-intro/es2.php",
+    "Workspace/01-php-intro/es1.php",
+    "Workspace/01-php-intro",
+    "Workspace",
+    "Snacks/2024-01-23 - PHP Hotel.md",
+    "Snacks",
+    "Live/2024-01-23 - PHP Foundamentals.md",
+    "Untitled.canvas",
     "Senza nome.canvas",
     "2024-01-23.md",
     "Live/2024-01-22 - PHP Intro.md",
@@ -188,8 +225,6 @@
     "__assets/imgs/boolean.png",
     "Empty File",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Workspace",
     "Tips & Tricks/Markdown/Slides/Slides demo.md",
     "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
     "Tips & Tricks/Markdown/Mermaid/Timeline.md",
@@ -201,15 +236,7 @@
     "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
     "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
     "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
-    "Tips & Tricks/Markdown/Slides",
-    "Tips & Tricks/Markdown/Mermaid",
-    "Tips & Tricks/Markdown/Attach",
-    "Tips & Tricks/Markdown",
-    "Databases",
-    "Personal",
-    "Snacks",
     "Tips & Tricks/Update Voult.md",
-    "Boolean Full Stack - 112",
     "index.php.md",
     "Hello Boolean.md",
     "Welcome.md"
